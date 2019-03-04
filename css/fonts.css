@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'P22R';
+    src: url('fonts/P22UndergroundCYProBook.eot');
+    src: url('fonts/P22UndergroundCYProBook.eot') format('embedded-opentype'),
+         url('fonts/P22UndergroundCYProBook.woff2') format('woff2'),
+         url('fonts/P22UndergroundCYProBook.woff') format('woff'),
+         url('fonts/P22UndergroundCYProBook.ttf') format('truetype'),
+         url('fonts/P22UndergroundCYProBook.svg#P22UndergroundCYProBook') format('svg');
+}
+@font-face {
+    font-family: 'P22B';
+    src: url('fonts/P22UndergroundCYProHeavy.eot');
+    src: url('fonts/P22UndergroundCYProHeavy.eot') format('embedded-opentype'),
+         url('fonts/P22UndergroundCYProHeavy.woff2') format('woff2'),
+         url('fonts/P22UndergroundCYProHeavy.woff') format('woff'),
+         url('fonts/P22UndergroundCYProHeavy.ttf') format('truetype'),
+         url('fonts/P22UndergroundCYProHeavy.svg#P22UndergroundCYProHeavy') format('svg');
+}
+@font-face {
+    font-family: 'P22L';
+    src: url('fonts/P22UndergroundCYProThin.eot');
+    src: url('fonts/P22UndergroundCYProThin.eot') format('embedded-opentype'),
+         url('fonts/P22UndergroundCYProThin.woff2') format('woff2'),
+         url('fonts/P22UndergroundCYProThin.woff') format('woff'),
+         url('fonts/P22UndergroundCYProThin.ttf') format('truetype'),
+         url('fonts/P22UndergroundCYProThin.svg#P22UndergroundCYProThin') format('svg');
+}
+
